@@ -1,5 +1,5 @@
 # git-commit-emoji
-| Git commit emoji collections
+> &emsp;&emsp;Git commit emoji collections
 
 ---
 
